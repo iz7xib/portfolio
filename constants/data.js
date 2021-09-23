@@ -60,27 +60,6 @@ const userData = {
       companyLink: "https://www.dshare.com/",
       desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
     },
-    {
-      title: "Founder and Developer",
-      company: "Algochurn",
-      year: "2021",
-      companyLink: "https://algochurn.com",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
-    },
-    {
-      title: "Internship",
-      company: "Intel Corporation",
-      year: "2019",
-      companyLink: "https://intel.com",
-      desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
-    },
-    {
-      title: "High School",
-      company: "Delhi Public School, Jaipur.",
-      year: "2015",
-      companyLink: "https://upes.co.in",
-      desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
-    },
   ],
   resumeUrl:
     "https://www.linkedin.com/in/fabio-bratta-7b90b7101/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABnSPr0BTMCmOalCfPON-JCSrk-yhceoFaQ,1578495726090)/",
