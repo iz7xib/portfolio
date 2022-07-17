@@ -3,7 +3,7 @@ const userData = {
   name: "Fabio Bratta",
   designation: "Frontend Developer",
   avatarUrl: "/avatar.jpeg",
-  email: "iz7xib@gmail.com",
+  email: "fabio.bratta@gmail.com",
   phone: "+393485267865",
   address: "Bari, Italia.",
   projects: [
@@ -56,10 +56,24 @@ const userData = {
     {
       title: "Frontend Developer",
       company: "D-Share",
-      year: "2021",
+      year: "2018 at now",
       companyLink: "https://www.dshare.com/",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      desc: "I contribute to the company's product. The product is a CMS that allows the management of news content. The biggest customers are newspapers of some importance.",
     },
+    {
+      title: "Tirocinio Formativo",
+      company: "Mac&Nil",
+      year: "2015",
+      companyLink: "https://www.dshare.com/",
+      desc: "I contribute to the company's product. The product is a CMS that allows the management of news content. The biggest customers are newspapers of some importance.",
+    },
+    {
+      title: "Repair Technician",
+      company: "Contact Service",
+      year: "2011-2014",
+      companyLink: "https://www.dshare.com/",
+      desc: "I contribute to the company's product. The product is a CMS that allows the management of news content. The biggest customers are newspapers of some importance.",
+    }
   ],
   resumeUrl:
     "https://www.linkedin.com/in/fabio-bratta-7b90b7101/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABnSPr0BTMCmOalCfPON-JCSrk-yhceoFaQ,1578495726090)/",

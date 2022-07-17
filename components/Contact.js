@@ -16,9 +16,9 @@ export default function Contact() {
               <h1 className="text-gray-50 font-semibold text-2xl">
                 Get in touch, let's talk.
               </h1>
-              <p className="font-light text-base text-gray-200 mt-2">
+              {/* <p className="font-light text-base text-gray-200 mt-2">
                 Fill in the details and I'll get back to you as soon as I can.
-              </p>
+              </p> */}
             </header>
             <div className="icons-container inline-flex flex-col my-20">
               <div className="flex flex-row items-center space-x-6 rounded-md border border-[#02044A] hover:border hover:border-blue-500 p-4">
@@ -141,7 +141,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <form className="form rounded-lg bg-white p-4 flex flex-col">
+          {/* <form className="form rounded-lg bg-white p-4 flex flex-col">
             <label htmlFor="name" className="text-sm text-gray-600 mx-4">
               {" "}
               Your Name
@@ -177,7 +177,7 @@ export default function Contact() {
             >
               Send Message
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
     </section>
