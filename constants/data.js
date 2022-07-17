@@ -61,17 +61,17 @@ const userData = {
       desc: "I contribute to the company's product. The product is a CMS that allows the management of news content. The biggest customers are newspapers of some importance.",
     },
     {
-      title: "Tirocinio Formativo",
+      title: "Internship",
       company: "Mac&Nil",
       year: "2015",
-      companyLink: "https://www.dshare.com/",
+      companyLink: "https://www.macnil.it/",
       desc: "I contribute to the company's product. The product is a CMS that allows the management of news content. The biggest customers are newspapers of some importance.",
     },
     {
       title: "Repair Technician",
       company: "Contact Service",
       year: "2011-2014",
-      companyLink: "https://www.dshare.com/",
+      companyLink: "https://www.facebook.com/contactservicegravina/",
       desc: "I contribute to the company's product. The product is a CMS that allows the management of news content. The biggest customers are newspapers of some importance.",
     }
   ],
